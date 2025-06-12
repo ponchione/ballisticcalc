@@ -1,2 +1,4 @@
 _staticcheck.sh
 _lint.sh
+.vscode
+.idea
